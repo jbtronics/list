@@ -11,3 +11,4 @@
 | InvenTree | https://inventree.org/                    | Y           | MIT     | InvenTree community  | N            | N                | Y      | Y           | N      |               |                                         | Y   | Y   |
 | BOMIST    | https://bomist.com/                       | N           | N/A     | N/A                  | N            | N                | Y      | N           | Y      | 10            | https://bomist.com/pricing              | Y   | Y   |
 | OpenBom   | https://www.openbom.com/                  | N           | N/A     | Newman Cloud, Inc    | N            | Y                | Y      | N           | Y      | 350           | https://www.openbom.com/pricing         | Y   | N   |
+| EleLa     | https://www.mmvisual.de/                  | N           | N/A     | Markus Müller        | Y            | N                | Y      | Y           | N      | 0             | https://www.mmvisual.de                 | Y | N     |
